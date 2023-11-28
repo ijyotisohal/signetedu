@@ -1,0 +1,18 @@
+@media screen and (max-width:767px){
+    header{
+        display: none;
+    }
+    .remote-training-banner-area .container-fluid {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .remote-training-banner-content h1 {
+        font-size: 40px;
+    }
+    .remote-training-banner-area {
+        padding-top: 41px;
+    }
+    .dizme_tm_section {
+        padding: 0px;
+    }
+}

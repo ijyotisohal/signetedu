@@ -1,0 +1,235 @@
+/*-------------------------
+    Variables
+-------------------------*/
+:root {
+    /* // Color */
+    --color-primary: #5956E9;
+    --color-white: #ffffff;
+    --color-black: #000000;
+    --color-light: #ECF2F6;
+    --color-dark: #27272E;
+    --color-text-dark: #292930;
+    --color-accent1: #FFDC60;
+    --color-accent2: #FAB8C4;
+    
+    --color-blue-shade: #6865FF;
+    --color-link: #2522BA;
+    --color-mabel: #DBF8FF;
+    --color-fog: #DBDEFF;
+    --color-pink-shade: #FFD3DB;
+    --color-peach: #FFEDDC;
+    --color-rose: #C75C6F;
+    
+    --color-chart1: #896BA7;
+    --color-chart2: #BADEFF;
+    
+    --color-body: #525260;
+    --color-gray-1: #757589;
+    --color-gray-2: #999FAE;
+    --color-gray-3: #999AB8;
+    --color-gray-4: #99A1AA;
+    --color-ship-gray: #42424A;
+    --color-ghost: #C7C7D5;
+    --color-mercury: #E5E5E5;
+    --color-hover:linear-gradient(to right, #6366f1, #8B5CF6, #D946EF);
+    
+    
+    /* // Gradient Color */
+    --gradient-button:linear-gradient(to right, #6366f1, #8B5CF6, #D946EF);
+    --gradient-primary: linear-gradient(90deg, #ECF2F6 0%, rgba(236, 242, 246, 0) 70.31%);
+    --gradient-blue: linear-gradient(145.92deg, #5956E9 20.18%, #9991FF 76.9%);
+    --gradient-accent: linear-gradient(180deg, #FAB8C4 0%, #FFEDF0 100%);
+    --gradient-white: linear-gradient(266.3deg, rgba(236, 242, 246, 0) 7.84%, #ECF2F6 29.1%, rgba(236, 242, 246, 0) 64.32%);
+    --gradient-dark: linear-gradient(180deg, #27272E 0%, #303035 100%);
+    
+    
+    
+    /* // Border */
+    --border-light: 1px solid #E3E6E9;
+    --border-lighter: 1px solid #ECF2F6;
+    --border-dark: 1px solid var(--color-ship-gray);
+    --border-gray: 1px solid var(--color-gray-4);
+    
+    
+    /* //Font Family */
+    --font-primary: 'DM Sans', sans-serif;
+    --font-secondary: 'Poppins', sans-serif;
+    --font-awesome: 'Font Awesome 5 Pro';
+    
+    /* // Transition */
+    --transition: all 0.3s ease-in-out;
+    
+    /* //Fonts Size */
+    --font-body-1: 18px;
+    --font-body-2: 16px;
+    --font-body-3: 14px;
+    --font-body-4: 12px;
+    
+    /* // Line Height */
+    --line-height-b1: 1.5;
+    --line-height-b3: 1.1;
+    
+    /* // Heading Font  */
+    --h1: 80px; 
+    --h2: 64px; 
+    --h3: 48px;
+    --h4: 32px; 
+    --h5: 24px; 
+    --h6: 20px; 
+    }
+    
+    
+.mt--200 {
+    margin-top: 200px;
+}
+
+.mt--150 {
+    margin-top: 150px;
+}
+.mt--140px {
+    margin-top: 140pxpx;
+}
+
+.mt--120px {
+    margin-top: 120pxpx;
+}
+
+.mt--100 {
+    margin-top: 100px;
+}
+.mt--90 {
+    margin-top: 90px;
+}
+
+.mt--80 {
+    margin-top: 80px;
+}
+.mt--60 {
+    margin-top: 60px;
+}
+
+.mt--40 {
+    margin-top: 40px;
+}
+
+
+.mt--20 {
+    margin-top: 20px ;
+}
+
+.mb--200 {
+    margin-bottom: 200px;
+}
+
+.mb--150 {
+    margin-bottom: 150px;
+}
+
+.mb--120 {
+    margin-bottom: 120px ;
+}
+
+.mb--100 {
+    margin-bottom: 100px ;
+}
+
+.mb--80 {
+    margin-bottom: 80px ;
+}
+
+.mb--60 {
+    margin-bottom: 60px ;
+}
+.mb--40 {
+    margin-bottom: 40px ;
+}
+
+.mb--20 {
+    margin-bottom: 20px ;
+} 
+
+.ml--20 {
+    margin-left: 20px ;
+}
+
+
+/* // Padding */
+.pt--250 {
+    padding-top: 250px;
+}
+
+.pt--200 {
+    padding-top: 200px;
+}
+
+.pt--150 {
+    padding-top: 150px;
+} 
+.pt--120 {
+    padding-top: 120px;
+} 
+.pt--100 {
+    padding-top: 100px;
+} 
+.pt--80 {
+    padding-top: 80px;
+} 
+.pt--60 {
+    padding-top: 60px;
+} 
+.pb--40 {
+    padding-bottom: 40px;
+}
+
+.pb--20 {
+    padding-bottom: 20px;
+} 
+.pb--10 {
+    padding-bottom: 10px;
+} 
+.pt--20 {
+    padding-bottom: 20px;
+} 
+.pt--30 {
+    padding-bottom: 30px;
+} 
+.pt--40 {
+    padding-bottom: 40px;
+} 
+.pt--60 {
+    padding-bottom: 60px;
+} 
+.pt--80 {
+    padding-bottom: 80px;
+} 
+.pt--100 {
+    padding-bottom: 100px;
+} 
+.pt--120 {
+    padding-bottom: 120px;
+} 
+.pt--140 {
+    padding-bottom: 140px;
+} 
+.pt--160 {
+    padding-bottom: 160px;
+} 
+.pt--150 {
+    padding-bottom: 150px;
+} 
+.pt--200 {
+    padding-bottom: 200px;
+} 
+    /* // Layouts Variation */
+    /* $smlg-device: 'only screen and (max-width: 1199px)';
+    $extra-device: 'only screen and (min-width: 1600px) and (max-width: 1999px)';
+    $extra-sm-device: 'only screen and (min-width: 1160) and (max-width: 1199px)';
+    $laptop-device: 'only screen and (min-width: 1199px) and (max-width: 1599px)';
+    /* // $sm-laptop-device: 'only screen and (min-width: 1199px) and (max-width: 1400px)'; */
+    /* $lg-layout: 'only screen and (min-width: 992px) and (max-width: 1199px)';
+    $md-layout:'only screen and (max-width: 991px)';
+    $sm-layout:'only screen and (max-width: 767px)';
+    $large-mobile: 'only screen and (max-width: 575px)';
+    $small-mobile: 'only screen and (max-width: 479px)'; */ 
+   
+    

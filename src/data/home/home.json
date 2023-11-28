@@ -1,0 +1,56 @@
+[
+    {
+        "bannerData":{
+            "title":"BETTER LEARNING FUTURE WITH US",
+            "subTitle":"Signet Institute",
+            "subTitleTwo":"Symbol of Excellence",
+            "description":"Our goals are to provide global aspirants with access to a bright future in Australia, establish ourselves as a symbol of excellence in the Australian training and education field, and empower participants to reach their full potential in life by equipping them with essential knowledge and skills.",
+            "image":""
+        },
+        "aboutdata":{
+            "title":"WE ARE BASED IN MELBOURNE, SYDNEY & ADELAIDE.",
+            "subTitle":"Ethical Business Practices at Signet Institute of Australia",
+            "description":"At Signet Institute of Australia, we believe in integrity and robust business practices that ensure the well-being of our students, our team members, our contractors, and our business operations. For us, ethical business is about delivering what we promise, it is about ensuring highest standards of quality, it is about making good on our promises at all levels.",
+            "aboutDataList":[
+                {
+                    "title":"Open Communication",
+                    "image":"",
+                    "description":"We believe in open communication, long-term partnerships and avoiding shortcuts. We have established our business to serve, and it is our creed to always make decisions that are in the best interests of the relevant parties."
+                },
+                {
+                    "title":"Team Development",
+                    "image":"",
+                    "description":"We will develop our team members along the same lines, and we will hold our executives responsible for ensuring that ethics pervade across all our hierarchical structures, business processes and strategic decisions that move our organisation forward."
+                }
+            ]
+
+        },
+        "whyChooseUs":{
+            "whyChooseUsList":[
+                {
+                    "id":"1",
+                    "title":"Be Transparent",
+                    "description":"Transparency is crucial. We empower stakeholders with relevant information, fostering trust from team members to executives."
+                },
+                {
+                    "id":"2",
+                    "title":"Be Collaborative",
+                    "description":"Individual growth in the right company. Teamwork fosters greatness, belonging, and meaning. Our creative environment encourages communication, innovation, and collaboration."
+                },
+                {
+                    "id":"3",
+                    "title":"Be Respectful",
+                    "description":"Inclusive culture values diversity, respect, and happiness for all team members, irrespective of background."
+                },
+                {
+                    "id":"4",
+                    "title":"Be Proactive",
+                    "description":"Service is essential internally and externally. A proactive approach, efficiency, and prompt response drive our team."
+                }
+            ]
+        },
+        "images":{
+            "imageOne":"/images/client-banner-left-2.jpg"
+        }
+    }
+]

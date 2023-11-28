@@ -1,0 +1,35 @@
+.falling-tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: all 0.5s ease;
+  }
+  
+  .falling-tags.finished {
+    transform: rotate(45deg) scale(0.8);
+    transition-delay: 0.2s;
+  }
+  
+  .falling-tag {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    background: linear-gradient(to right, #ffbe0b, #fb5607);
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  
+  #falling-section {
+    background-color: #f2f2f2;
+  }
+  

@@ -1,0 +1,311 @@
+[
+    {
+        "title":"Certificate III in Light Vehicle Mechanical Technology",
+        "courseCode":"AUR30620",
+        "cricosCode":"103635H",
+        "duration":"78 Weeks",
+        "faculty":"Automotive",
+        "deliveryMode":"Face To Face & Workshop Practical Training",
+        "deliveryModeImage":"",
+        "deliveryModeList":[
+            {
+                "id":"1",
+                "title":"COURSE DESCRIPTION",
+                "body":[
+                    "<p>one</p>"
+                ]
+            },
+            {
+                "id":"2",
+                "title":"INTAKE DATES",
+                "body":[
+                    "<p><strong>2023:</strong>one</p>",
+                    "<p><strong>2023:</strong>one</p>"
+                ]
+            },
+            {
+                "id":"3",
+                "title":"WORK PLACEMENT",
+                "body":[
+                    "<p>one</p>"
+                ]
+            },
+            {
+                "id":"4",
+                "title":"MODE OF DELIVERY",
+                "body":[
+                    
+                    "<ul><li>Classroom</li><li>Practical Workshop</li><li>Work Placement</li><li>Online</li><li>one</li></ul>"
+                ]
+            },
+            {
+                "id":"5",
+                "title":"LOCATIONS OFFERED",
+                "body":[
+                    "<ul><li>Melbourne</li><li>Sydney</li><li>Adelaide</li></ul>"
+                ]
+            },
+            {
+                "id":"6",
+                "title":"ENTRY REQUIREMENTS",
+                "body":[
+                    "<ul><li>one</li><li>one</li><li>one</li><li>one</li><li>one</li></ul>"
+                ]
+            },
+            {
+                "id":"7",
+                "title":"ENGLISH REQUIRMENTS",
+                "body":[
+                    "<ul><li><p><strong>IELTS 5.5  = </strong>(Minimum Score in Each Module 5.0).</p></li><li><p><strong>TOEFL IBT = </strong> 69-79 (Minimum Score in Each Module 14).</p></li><li><p><strong>TOEFL PAPER = </strong>523 (Minimum TWE 3.5).</p></li><li><p><strong>PTE ACADEMIC = </strong>Overall, 46 (Minimum Score in Each Module 40).</p></li></ul>"
+                ]
+            },
+            {
+                "id":"8",
+                "title":"ADDITIONAL SIGNET REQUIREMENTS",
+                "body":[
+                    "<p><strong>AGE = </strong>18 years of age at the time of application.</p>",
+                    "<p><strong>EDUCATION  = </strong>Year 12 or equivalent successfully completed.</p>"
+                ]
+            },
+            {
+                "id":"9",
+                "title":"LLN, PTR & COMPUTER.",
+                "body":[
+                    "<ul><li><p><strong>LLN = </strong> Internet-based Language, Literacy and Numeracy test to ensure that you have the fundamental skills to complete this qualification.</p></li><li><p><strong>PTR = </strong>Pre-Training Review is an assessment of your past learning, experience and skill development to ensure that you can understand the concepts delivered in this qualification.</p></li><li><p><strong>COMPUTER  = </strong>You should possess sound computer skills, ability to navigate internet and use various software tools to study, produce assessments and absorb the training material.</p></li></ul>"
+                ]
+            },
+            {
+                "id":"10",
+                "title":"ASSESSMENTS",
+                "body":[
+                    "<p>The following assessment methods (not limited to) may be used to assess the students:</p>",
+                    "<ul><li>Written assessments</li><li>Presentations</li><li>Projects/Reports</li><li>Case Study/Scenarios/Third party reports</li><li>Observation in a simulate, or actual, work environment (via third party reports and observation checklists).</li></ul>"
+
+                ]
+            },
+            {
+                "id":"11",
+                "title":"CREDIT TRANSFER",
+                "body":[
+                    "<p>one</p>"
+                ]
+            },
+            {
+                "id":"12",
+                "title":"QUALIFICATION PATHWAYS",
+                "body":[
+                    "<p><strong>2023 = </strong>one</p>"
+                ]
+            },
+            {
+                "id":"13",
+                "title":"CAREER PATHWAYS",
+                "body":[
+                    "<p>one</p>",
+                    "<ul><li>one</li><li>one</li><li>one</li><li>one</li><li>one</li></ul>"
+                ]
+            }
+            
+        ],
+        "coreUnits":{
+            "title":"CORE UNITS OF COMPETENCY",
+            "coreUnitsList":[
+                {
+                    "id":"1",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"2",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"3",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"4",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"5",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"6",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"7",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"8",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"9",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"10",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"11",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"12",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"13",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"14",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"15",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"16",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"17",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"18",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"19",
+                    "title":"title",
+                    "data":"data"
+                }
+            ]
+        },
+        "unitsOfCompetency":{
+            "title":"CORE UNITS OF COMPETENCY",
+            "unitsOfCompetencyList":[
+                {
+                    "id":"1",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"2",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"3",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"4",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"5",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"6",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"7",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"8",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"9",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"10",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"11",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"12",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"13",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"14",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"15",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"16",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"17",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"18",
+                    "title":"title",
+                    "data":"data"
+                },
+                {
+                    "id":"19",
+                    "title":"title",
+                    "data":"data"
+                }
+            ]
+        }
+    }
+]
